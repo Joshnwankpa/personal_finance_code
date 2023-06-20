@@ -85,7 +85,7 @@ SET Category =
   END;
 
 -- Query 3
-SELECT YEAR(Date) AS Year, MONTH(Date) AS Month, CONCAT('�', ROUND(AVG(Payments), 0)) AS AverageExpense
+SELECT YEAR(Date) AS Year, MONTH(Date) AS Month, CONCAT('£', ROUND(AVG(Payments), 0)) AS AverageExpense
 FROM bank_statement..all_statements
 WHERE Category = 'GroceriesnUtility'
 GROUP BY YEAR(Date), MONTH(Date);
