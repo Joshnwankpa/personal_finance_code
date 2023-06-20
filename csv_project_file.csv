@@ -1,0 +1,5 @@
+﻿basename,bank_layout,page,transaction_id,Date,Date cleared,Description 1,Description 2,Receipts,Payments,Amount,Time,Reported page,Account name,Statement date,Period from,Period to,Cleared balance,Opening balance,Closing balance,Currency,Statement info,Bank info,Account info,Bank info,Account info
+Statement-2022-12,UK::Lloyds 3,1,1,01-Dec-22,,STGCOACH/CTYLINK,DEB,,4.7,,08:15:00,,,,,,,,,,,,,,
+Statement-2022-12,UK::Lloyds 3,1,2,02-Dec-22,,ICELAND,DEB,,3.45,,20:30:00,,,,,,,,,,,,,,
+Statement-2022-12,UK::Lloyds 3,1,3,05-Dec-22,,TESCO STORES 6841,DEB,,1.7,,11:15:00,,,,,,,,,,,,,,
+Statement-2022-12,UK::Lloyds 3,1,4,05-Dec-22,,ICELAND,DEB,,6.25,,14:15:00,,,,,,,,,,,,,,
