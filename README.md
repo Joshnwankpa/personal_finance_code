@@ -1,4 +1,4 @@
-# Personal_Finance_code
+# Personal Finance
 
 This repository contains the R and SQL code used for the analysis and visualization of personal bank transaction data. The project focuses on gaining insights into spending habits by examining and analysing six months' worth of transactions.
 
