@@ -98,7 +98,7 @@ bank_clean$Description.1 <- ifelse(bank_clean$Description.1
 
 bank_clean$Description.1 <- ifelse(bank_clean$Description.1 == "Vue Entertainment", "Cinema", bank_clean$Description.1)
 
-bank_clean$Description.1 <- ifelse(bank_clean$Description.1 %in%  c("MR", "KIKE", "KELECHI", "KIKE2", "FCOOLJC UK"), 
+bank_clean$Description.1 <- ifelse(bank_clean$Description.1 %in%  c("MR", "", "", "", ""), 
                                    "To People", bank_clean$Description.1)
 
 
